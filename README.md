@@ -4,7 +4,7 @@
   <a href= "https://www.linkedin.com/in/mounerdabjan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="mdabjan@uoguelph.ca">
+  <a href="mouner.be@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail badge"/>
   </a>
 </div>
