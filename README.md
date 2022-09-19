@@ -20,9 +20,9 @@
 
 ### :man_technologist: About Me :
 
-I'm a second year student at the University of Guelph studying Engineering Systems and Computing who is passionate to learn and experience various computer technologies.
+I'm a third year student at the University of Guelph studying Engineering Systems and Computing who is passionate to learn and experience various computer technologies.
 
-- I'm working as a Low-Code Application Developer for my Summer 2022 Co-op.
+- I worked as a Low-Code Application Developer for my Summer 2022 Co-op.
 - Utilizing Microsoft Power Apps to create useful applications for businesses.
 - Currecntly self-studying React.js and Full Stack Development.
 
