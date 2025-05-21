@@ -20,11 +20,15 @@
 
 ### :man_technologist: About Me :
 
-I'm a third year student at the University of Guelph studying Engineering Systems and Computing who is passionate to learn and experience various computer technologies.
+I'm a recent graduate from the University of Guelph with a degree in Engineering Systems and Computing, passionate about building scalable, impactful software. I enjoy working across the full stack, solving real-world problems, and continuously learning new technologies.
 
-- I worked as a Low-Code Application Developer for my Summer 2022 Co-op.
-- Utilizing Microsoft Power Apps to create useful applications for businesses.
-- Currecntly self-studying React.js and Full Stack Development.
+🧠 Co-op Experience: Worked at Fidelity Investments and the Ontario Ministry of Government and Consumer Services, where I developed automation tools, internal web applications, and chatbot solutions using Python, C#, SQL, Power Platform, and OpenAI APIs.
+
+💡 Research Background: Contributed to a real-time motion tracking system as a Research Assistant using C++ and Unity for a virtual rehab tool.
+
+⚙️ What I’m Building: A chess game built with React and TypeScript, along with full-stack tools that explore APIs, cloud integrations, and responsive design.
+
+🌱 Currently Learning: Deepening my knowledge in backend systems, cloud platforms (AWS/Azure), and DevOps practices to build scalable, testable applications.
 
 ---
 
